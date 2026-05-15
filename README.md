@@ -290,7 +290,7 @@ By working on this repository, developers can learn:
 
 # 👨‍💻 Author
 
-## Gaurav Salunkhe (G-One)
+## Gourav Salunkhe (G-One)
 
 Applied AI Engineer & Computer Vision Enthusiast
 Focused on:
