@@ -30,9 +30,9 @@ The goal of this project is to explore modern AI techniques used in:
 * Smart Surveillance
 * AI Cameras
 * Healthcare Imaging
-* Robotics
-* Industrial Automation
-* Research & Development
+* Robotics.
+* Industrial Automation.
+* Research & Development.
 
 ---
 
