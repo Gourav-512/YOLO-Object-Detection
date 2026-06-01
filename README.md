@@ -8,7 +8,7 @@ This repository demonstrates practical implementations of:
 * Frame-wise Video Detection
 * Instance Segmentation
 * Image Enhancement
-* Image Restoration
+* Image Restoration.
 
 Designed for learning, experimentation, and showcasing real-world AI/ML engineering skills.
 
