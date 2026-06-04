@@ -100,6 +100,7 @@ YOLO-Object-Detection/
 
 Examples:
 
+
 * Person
 * Car
 * Dog
@@ -132,6 +133,7 @@ Enhances image quality using AI-powered processing techniques.
 * Contrast enhancement
 * Visual sharpening
 
+
 ---
 
 ## 🛠️ Image Restoration
@@ -146,6 +148,7 @@ Restores degraded or low-quality images.
 * Image clarity enhancement
 
 ---
+
 
 ## ✂️ Instance Segmentation
 
