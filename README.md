@@ -6,7 +6,6 @@ This repository demonstrates practical implementations of:
 * Object Detection on Images
 * Object Detection on Videos
 * Frame-wise Video Detection
-* 
 * Instance Segmentation
 * Image Enhancement
 * Image Restoration.
