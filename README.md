@@ -3,7 +3,6 @@
 A complete collection of **Computer Vision and Deep Learning projects** built using **YOLO (You Only Look Once)**, OpenCV, and Python.
 This repository demonstrates practical implementations of:
 
-
 * Object Detection on Images
 * Object Detection on Videos
 * Frame-wise Video Detection
