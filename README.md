@@ -25,6 +25,7 @@ This repository contains multiple Computer Vision modules focused on:
 
 The goal of this project is to explore modern AI techniques used in:
 
+
 * Autonomous Systems
 * Smart Surveillance
 * AI Cameras
