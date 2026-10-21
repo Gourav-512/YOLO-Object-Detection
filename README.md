@@ -9,7 +9,6 @@ This repository demonstrates practical implementations of:
 * Instance Segmentation
 * Image Enhancement
 * Image Restoration.
-* 
 
 Designed for learning, experimentation, and showcasing real-world AI/ML engineering skills.
 ---
